@@ -1,0 +1,5 @@
+C:\Users\Yury\source\repos\MindboxTest\MindboxTest\bin\Release\MindboxTest.dll
+C:\Users\Yury\source\repos\MindboxTest\MindboxTest\bin\Release\MindboxTest.pdb
+C:\Users\Yury\source\repos\MindboxTest\MindboxTest\obj\Release\MindboxTest.csproj.CoreCompileInputs.cache
+C:\Users\Yury\source\repos\MindboxTest\MindboxTest\obj\Release\MindboxTest.dll
+C:\Users\Yury\source\repos\MindboxTest\MindboxTest\obj\Release\MindboxTest.pdb
